@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 d5bb5b56d8c3dba4160705464ae51c9ea4b2842b dharshini-git07 <dharshini.tech1010@gmail.com> 1778259501 +0530	commit (initial): feat:ft
+d5bb5b56d8c3dba4160705464ae51c9ea4b2842b 06a1e80165fd050fa78a87ddc560d85b82ed23ee dharshini-git07 <dharshini.tech1010@gmail.com> 1778290626 +0530	commit: commit: Grocery Store application
+06a1e80165fd050fa78a87ddc560d85b82ed23ee 0000000000000000000000000000000000000000 dharshini-git07 <dharshini.tech1010@gmail.com> 1778291041 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 06a1e80165fd050fa78a87ddc560d85b82ed23ee dharshini-git07 <dharshini.tech1010@gmail.com> 1778291041 +0530	Branch: renamed refs/heads/master to refs/heads/main
+06a1e80165fd050fa78a87ddc560d85b82ed23ee 79cae0a97b57bf74e6557a59e766e14029c00c55 dharshini-git07 <dharshini.tech1010@gmail.com> 1778291058 +0530	pull origin main --rebase (start): checkout 79cae0a97b57bf74e6557a59e766e14029c00c55
+79cae0a97b57bf74e6557a59e766e14029c00c55 dd7c2048e27fccd89dfc93740f125153da53ad8b dharshini-git07 <dharshini.tech1010@gmail.com> 1778291058 +0530	pull origin main --rebase (pick): feat:ft
+dd7c2048e27fccd89dfc93740f125153da53ad8b 06a1e80165fd050fa78a87ddc560d85b82ed23ee dharshini-git07 <dharshini.tech1010@gmail.com> 1778291071 +0530	rebase (abort): returning to refs/heads/main
